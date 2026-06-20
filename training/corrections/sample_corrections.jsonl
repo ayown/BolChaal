@@ -1,0 +1,5 @@
+# Copy this file, rename it, and append one JSON object per line as you review translations.
+# Keep Hinglish examples in normalized Hindi Devanagari, because the app transliterates before the model sees them.
+{"src":"আপনি কেমন আছেন?","tgt":"अहाँ कोना छी?","src_lang":"ben_Beng","tgt_lang":"mai_Deva","source":"seed example"}
+{"src":"मैं ठीक हूँ, तुम बताओ?","tgt":"हम ठीक छी, अहाँ कहू?","src_lang":"hin_Deva","tgt_lang":"mai_Deva","source":"seed example"}
+{"src":"मुझे यह बहुत अच्छा लगा।","tgt":"हमरा ई बहुत नीक लागल।","src_lang":"hin_Deva","tgt_lang":"mai_Deva","source":"seed example"}

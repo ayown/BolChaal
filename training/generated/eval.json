@@ -1,0 +1,177 @@
+[
+  {
+    "src": "আপনি কি করছেন?",
+    "tgt": "अहाँ की कऽ रहल छी?",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আপনি কেমন আছেন?",
+    "tgt": "अहाँ कोना छी?",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva",
+    "source": "seed example"
+  },
+  {
+    "src": "আমার একটা ভাই এবং একটা বোন আছে।",
+    "tgt": "हमरा एकटा भाय आ एकटा बहिना अछि।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমার নাম রাহুল।",
+    "tgt": "हमर नाम राहुल अछि।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমি ঘুমাচ্ছি।",
+    "tgt": "हम सूतल छी।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমি তোমাকে ভালোবাসি।",
+    "tgt": "हम अहाँ सँ प्रेम करैत छी।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমি বাজারে যাচ্ছি।",
+    "tgt": "हम बजार जा रहल छी।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমি বাড়ি যাচ্ছি।",
+    "tgt": "हम घर जा रहल छी।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "আমি ভাত খাচ্ছি।",
+    "tgt": "हम भात खा रहल छी।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "এটা খুব সুন্দর।",
+    "tgt": "ई बड्ड सुन्दर अछि।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "ঠিক আছে।",
+    "tgt": "ठीक अछि।",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "তুমি কি খাবে?",
+    "tgt": "अहाँ की खेबाक चाहैत छी?",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "How are you?",
+    "tgt": "अहाँ कोना छी?",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "I am going to the market to buy some vegetables.",
+    "tgt": "हम किछु सब्जी कीनबाक लेल बजार जा रहल छी।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "I am going to the market.",
+    "tgt": "हम बजार जा रहल छी।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "I am very angry.",
+    "tgt": "हम बड्ड गुस्साएल छी।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "I liked it very much.",
+    "tgt": "हमरा ई बड्ड नीक लागल।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "It is raining outside.",
+    "tgt": "बाहर वर्षा भऽ रहल अछि।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "Sorry.",
+    "tgt": "माफ करू।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "What did you eat?",
+    "tgt": "अहाँ की खेलहुँ?",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "आज का दिन बहुत अच्छा रहा।",
+    "tgt": "आइक दिन बड्ड नीक रहल।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "आपका नाम क्या है?",
+    "tgt": "अहाँक नाम की अछि?",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "कल मिलते हैं।",
+    "tgt": "काल्हि भेंट होएत।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "ठीक है, चिंता मत करो।",
+    "tgt": "ठीक अछि, चिन्ता नहि करू।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "तुम क्यों रो रहे हो?",
+    "tgt": "तों किएक काना रहल छें?",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "तुम बहुत सुन्दर हो।",
+    "tgt": "अहाँ बड्ड सुन्दर छी।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "बाहर बारिश हो रही है।",
+    "tgt": "बाहर वर्षा भऽ रहल अछि।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "माफ करना।",
+    "tgt": "माफ करू।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  },
+  {
+    "src": "मैं घर जा रहा हूँ।",
+    "tgt": "हम घर जा रहल छी।",
+    "src_lang": "hin_Deva",
+    "tgt_lang": "mai_Deva"
+  }
+]

@@ -1,0 +1,30 @@
+# BolChaal - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web Framework
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+
+# ML / Translation
+# CPU-only PyTorch (smaller download, no CUDA needed)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+transformers==4.46.3
+sentencepiece==0.2.0
+sacremoses==0.1.1
+numpy==1.26.4
+
+# IndicTransToolkit (installed separately via git)
+# Run this after pip install -r requirements.txt:
+# pip install git+https://github.com/VarunGumma/IndicTransToolkit.git
+
+# Hinglish Transliteration
+# Runtime code uses the 'indic-transliteration' package directly.
+indic-transliteration==2.3.69
+
+# Optional but recommended when using the bundled LoRA adapter.
+peft==0.9.0
+
+# Utilities
+requests==2.32.3
+python-multipart==0.0.9

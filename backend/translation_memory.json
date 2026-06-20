@@ -1,0 +1,23 @@
+[
+  {
+    "src": "আমার পিসি কোথায়?",
+    "tgt": "हमर फुआ कतय छथि?",
+    "src_lang": "ben_Beng",
+    "tgt_lang": "mai_Deva",
+    "notes": "পিসি means the speaker's paternal aunt, not प्रिय or कहानी."
+  },
+  {
+    "src": "fuck it.. i love you so much",
+    "tgt": "भाड़मे जाए... हम तोरा सँ बहुत प्रेम करैत छी।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva",
+    "notes": "Fuck it is an impersonal dismissal here, not a command directed at the listener."
+  },
+  {
+    "src": "fuck it... i don't care anymore",
+    "tgt": "धुर... आब हमरा कोनो परवाह नहि अछि।",
+    "src_lang": "eng_Latn",
+    "tgt_lang": "mai_Deva",
+    "notes": "Use an impersonal Maithili interjection and Maithili negation, not Hindi जाओ or नहीं है."
+  }
+]

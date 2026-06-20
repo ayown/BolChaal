@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.log
+.DS_Store
+
+# HuggingFace model cache (large files, don't commit)
+backend/models/
+*.bin
+*.safetensors
+*.pt
+
+# IDE
+.vscode/
+.idea/
+
+# Frontend build
+frontend/dist/
+frontend/node_modules/

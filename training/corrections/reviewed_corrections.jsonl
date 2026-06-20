@@ -1,0 +1,3 @@
+{"src":"আমার পিসি কোথায়?","tgt":"हमर फुआ कतय छथि?","src_lang":"ben_Beng","tgt_lang":"mai_Deva","source":"reviewed model failure","notes":"পিসি means paternal aunt; base model incorrectly generated पसंदीदा कहानी."}
+{"src":"fuck it.. i love you so much","tgt":"भाड़मे जाए... हम तोरा सँ बहुत प्रेम करैत छी।","src_lang":"eng_Latn","tgt_lang":"mai_Deva","source":"reviewed model failure","notes":"Use impersonal जाए for fuck it; जाओ incorrectly addresses a specific listener."}
+{"src":"fuck it... i don't care anymore","tgt":"धुर... आब हमरा कोनो परवाह नहि अछि।","src_lang":"eng_Latn","tgt_lang":"mai_Deva","source":"reviewed Hindi-leakage failure","notes":"Direct English model produced Hindi मुझे अब परवाह नहीं है; expected Maithili हमरा, आब, नहि अछि."}
